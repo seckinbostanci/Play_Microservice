@@ -1,0 +1,12 @@
+/Users/seckinbostanci/Developer/Microservice/Play.Common/src/Play.Common/bin/Debug/net5.0/Play.Common.deps.json
+/Users/seckinbostanci/Developer/Microservice/Play.Common/src/Play.Common/bin/Debug/net5.0/Play.Common.dll
+/Users/seckinbostanci/Developer/Microservice/Play.Common/src/Play.Common/bin/Debug/net5.0/ref/Play.Common.dll
+/Users/seckinbostanci/Developer/Microservice/Play.Common/src/Play.Common/bin/Debug/net5.0/Play.Common.pdb
+/Users/seckinbostanci/Developer/Microservice/Play.Common/src/Play.Common/obj/Debug/net5.0/Play.Common.csprojAssemblyReference.cache
+/Users/seckinbostanci/Developer/Microservice/Play.Common/src/Play.Common/obj/Debug/net5.0/Play.Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seckinbostanci/Developer/Microservice/Play.Common/src/Play.Common/obj/Debug/net5.0/Play.Common.AssemblyInfoInputs.cache
+/Users/seckinbostanci/Developer/Microservice/Play.Common/src/Play.Common/obj/Debug/net5.0/Play.Common.AssemblyInfo.cs
+/Users/seckinbostanci/Developer/Microservice/Play.Common/src/Play.Common/obj/Debug/net5.0/Play.Common.csproj.CoreCompileInputs.cache
+/Users/seckinbostanci/Developer/Microservice/Play.Common/src/Play.Common/obj/Debug/net5.0/Play.Common.dll
+/Users/seckinbostanci/Developer/Microservice/Play.Common/src/Play.Common/obj/Debug/net5.0/ref/Play.Common.dll
+/Users/seckinbostanci/Developer/Microservice/Play.Common/src/Play.Common/obj/Debug/net5.0/Play.Common.pdb
